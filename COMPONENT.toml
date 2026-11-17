@@ -3,7 +3,7 @@ name = "SigmaOS-service-failure-recovery"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "service-failure-recovery component"
+description = "service failure recovery"
 upstream = []
 
 [contract]
